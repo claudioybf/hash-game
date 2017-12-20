@@ -1,0 +1,11 @@
+body{
+	font-family: 'Hind', sans-serif;
+}
+
+#pagina_inicial, #palco_jogo{
+	margin-top: 300px;
+}
+
+#btn{
+	margin-top: 100px;
+}
